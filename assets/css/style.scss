@@ -1,4 +1,13 @@
+body {
+    background-color: bisque;
+}
+
 .container {
     width: min(90%, 1200px);
     margin-inline: auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
